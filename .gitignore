@@ -2,11 +2,6 @@
 bin
 gen
 
-#Eclipse
-.project
-.classpath
-.settings
-
 #IntelliJ IDEA
 .idea
 *.iml
@@ -16,8 +11,3 @@ classes
 target
 release.properties
 pom.xml.*
-
-#Command line
-local.properties
-build.xml
-proguard-project.txt
