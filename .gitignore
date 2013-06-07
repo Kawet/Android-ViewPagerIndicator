@@ -11,3 +11,6 @@ classes
 target
 release.properties
 pom.xml.*
+
+#Crashlytics
+library/res/values/com_crashlytics_export_strings.xml
